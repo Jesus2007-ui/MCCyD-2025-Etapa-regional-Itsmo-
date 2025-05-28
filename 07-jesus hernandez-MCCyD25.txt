@@ -1,0 +1,395 @@
+<html>
+<Head>
+</Head>
+<Title>
+MCCYD 2025
+</title>
+<body>
+<Body bgcolor=#000000>
+<p>
+<hr>
+<center>
+<marquee bgcolor="#000000"behavior="alternate"direction="night">
+
+<b> <font color=#FFFFFF size="10">MUESTRA CULTURAL CIVICA Y DEPORTIVA </font><p><font color=#FFFFFF size="14"><center> 🎭🎨🎖️⚽🏃‍♂️2025🎭🎨🎖️⚽🏃‍♂️ </center></b></font>
+</b>
+
+</marquee>
+</font>
+</center>
+<p>
+<center>
+<hr>
+<font color=#FFFFFF>
+ <h2>Etapa Regional – Región del Istmo, Ixtaltepec</h2>
+<img src="1.png">
+    <p><strong>
+<br>La MUESTRA CULTURAL CIVICA Y DEPORTIVA es un evento en el cual todos los CECyTE de todo México pueden participar, se dividen en varias etapas para poder llegar a un solo ganador en cada disciplina. Nosotros nos encontramos en la región del Istmo. En esta etapa diferentes planteles y emsad de distintas localidades que pertenecen a la región del Istmo se han de enfrentar para decidir quienes nos representaran en la siguientes etapas.
+<br>
+<br>
+<br>
+Durante la MCCYD, los asistentes disfrutaron de diversas actividades culturales, deportivas y cívicas que destacaron el talento y la creatividad de los jóvenes. Se llevaron a cabo presentaciones artísticas, competencias deportivas y exposiciones que reflejaron la riqueza cultural de la región. Fue un espacio para fomentar la convivencia, el aprendizaje y el espíritu de comunidad entre los jóvenes participantes.
+<br>
+<br>
+<hr>
+<font size="12">Inicio del evento</font>
+</p>
+</font>
+
+<table border="0" width="90%" cellspacing="10">
+    <tr>
+        <!-- Columna informacion  -->
+        <td width="50%" align="center">
+            <font color=#FFFFFF>La ceremonia inaugural fue presidida por el presidente municipal Oswaldo Chiñas Cruz y la directora general del CECyTEO, Blanca Luz Martínez Guzmán, quienes tambien encabezaron la ceremonia inaugural.
+<br>
+<br>
+Durante el acto, Chiñas Cruz destacó la dedicación, habilidad deportiva y entusiasmo de los participantes, resaltando que este tipo de actividades trascienden la competencia para convertirse en una oportunidad para fortalecer valores y construir comunidad.
+<br>
+<br>
+Además, reconoció el trabajo del Plantel 20 de Ixtaltepec por su labor de coordinación y logística.
+<br>
+<br>
+Blanca Martínez expresó que el evento es un espacio para compartir, intercambiar y enriquecer tradiciones, valores y aprendizajes.
+</font>
+           
+        </td>
+        <!-- Columna de relleno -->
+        <td width="40%" valign="top">
+            <center>
+            <img src="2.jpg">
+            <figcaption>Presidente municipal Oswaldo Chiñas Cruz y la directora general del CECyTEO, Blanca Luz Martínez Guzmán.</figcaption>
+</font>
+
+ </center>
+<br>
+<br><br>
+ <center>
+<a href="https://www.facebook.com/blancaluzmartinezguzmanoficial/posts/pfbid034qhZNc2pvQd7fKvJRYiBpF3pcDgaJwDXn7zeCTi7W8g21oAjGqWPLeS67zoMfzaVl">Visitar sitio web</a>
+
+</center>
+ </td>
+ </tr>
+</table>
+<font color=#FFFFFF>
+<img src="3.jpg" width="1024" height="575" alt="Directora general encabeza al recorrido del plantel 20 al la explanada del Ixtaltepec">
+<figcaption>Directora general encabeza al recorrido del plantel 20 al la explanada de Ixtaltepec.</figcaption>
+<br>
+<br>
+<img src="5.jpg" width="1024" height="575" alt="Descripción de la imagen">
+<figcaption>Alumnos de diferentes planteles y EMSaD reunidos para la ceremonia inaugural.</figcaption>
+
+
+<br>
+<br>
+El cierre de la ceremonia inaugural fue un momento emotivo marcado por el encendido del pebetero olímpico, que dio inicio formal a la justa escolar, rodeado de aplausos y emociones compartidas.
+<br>
+<br>
+<img src="4.jpg" width="1024" height="575" alt="Descripción de la imagen">
+<figcaption>Alumna del plantel 20 realiza el encendido del pebetero olímpico.</figcaption>
+<br>
+<br>
+El acto contó con la participación de concejales del gobierno local, autoridades sindicales y educativas de diversos planteles del CECyTEO en la región del Istmo de Tehuantepec.
+<br>
+<br> 
+<hr>
+<font size="12">Participación estudiantil</font>
+<br>
+<br>
+Estudiantes de diversos planteles de la región del Istmo participaron en disciplinas culturales, cívicas y deportivas, demostrando su dedicación y habilidades en cada una de las actividades. El evento sirvió como plataforma para que los jóvenes expresaran su talento y reforzaran valores como el respeto, la disciplina y el trabajo en equipo.
+<br>
+<br>
+Este evento reunió a cientos de estudiantes de distintos planteles y EMSaD pertenecientes a la Región del Istmo, quienes participaron en diversas disciplinas académicas, culturales, cívicas y deportivas, organizadas en los siguientes grandes núcleos:
+<br>
+<br>
+<font size="05">✍️ Artes Literarias y Expresión Verbal</font>
+<br>
+<br>
+Cuento Corto (Individual)
+<br>
+Poesía (Individual)
+<br>
+Oratoria (Individual)
+<br>
+Declamación (Individual)
+<br>
+<br>
+Los participantes demostraron sus habilidades comunicativas, su sensibilidad literaria y su capacidad para abordar temas relevantes a través de la palabra.
+<br>
+<br>
+<font size="05">🎭 Artes Escénicas y Ajedrez</font>
+<br>
+<br>
+Canto (Individual)
+<br>
+Danza (Grupal – de 12 a 18 integrantes)
+<br>
+Ajedrez (Individual)
+<br>
+<br>
+<figure>
+  <video width="640" height="360" controls>
+    <source src="Yazmin.mp4">
+  </video>
+  <figcaption>Alumna del Emsad 67 Quiegolani con la participacion en canto.</figcaption>
+</figure>
+<br>
+<br>
+Este bloque combinó expresión corporal y vocal con el desarrollo del pensamiento estratégico y la concentración.
+<br>
+<br>
+<font size="05">⚽ Actividades Deportivas</font>
+<br>
+<font size="03">Deportes de Conjunto</font>
+<br>
+<br>
+En esta categoría, los y las estudiantes participaron en distintas disciplinas colectivas, compitiendo en las ramas varonil y femenil con la siguiente conformación de equipos:
+<br>
+Fútbol Varonil – 15 jugadores
+<br>
+Fútbol Femenil – 15 jugadoras
+<br>
+Voleibol Varonil – 10 jugadores
+<br>
+Voleibol Femenil – 10 jugadoras
+<br>
+Basquetbol Varonil – 10 jugadores
+<br>
+Basquetbol Femenil – 10 jugadoras
+<br>
+Estas disciplinas promovieron el trabajo en equipo, la disciplina táctica, la coordinación y el espíritu deportivo.
+<br>
+<br>
+<font size="03">Atletismo</font>
+<br>
+<font size="02">Pruebas de pista:</font>
+<br>
+<br>
+100 metros planos (Varonil / Femenil)
+<br>
+200 metros planos (Varonil / Femenil)
+<br>
+400 metros planos (Varonil / Femenil)
+<br>
+800 metros planos (Varonil / Femenil)
+<br>
+1500 metros planos (Varonil / Femenil)
+<br>
+3000 metros planos (Varonil / Femenil)
+<br>
+5000 metros planos (Varonil / Femenil)
+<br>
+10000 metros planos (Varonil / Femenil)
+<br>
+Relevo 4 x 100 metros planos (Varonil / Femenil)
+<br>
+Relevo 4 x 400 metros planos (Varonil / Femenil)
+<br>
+Pruebas de campo:
+<br>
+Salto de Longitud (Varonil / Femenil)
+<br>
+Impulso de Bala (Varonil / Femenil)
+<br>
+Lanzamiento de Disco (Varonil / Femenil)
+<br>
+<br>
+<font size="05">🎖️ Actividades Cívicas</font>
+<br>
+<br>
+Bandas de Guerra (Hasta 18 integrantes)
+<br>
+<br>
+Esta disciplina fomentó el respeto a los símbolos patrios, la disciplina y el trabajo colaborativo, siendo una de las expresiones más representativas de la formación cívica del estudiantado.
+<br>
+<br>
+Este evento fue mucho más que una competencia: fue una celebración del talento, la identidad y el esfuerzo de las y los estudiantes, así como un espacio de integración y crecimiento personal. Los ganadores de cada disciplina representarán con orgullo a la Región del Istmo en las siguientes etapas.
+<br>
+<br>
+Esta tabla muestra los planteles participantes de la Región Istmo en la Muestra Cultural, Cívica y Deportiva 2025 de CECyTEs, incluyendo su número de identificación y nombre de la localidad correspondiente:
+<br>
+<br>
+<head>
+  <meta charset="UTF-8">
+  <title>Tabla Región Istmo</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: Arial, sans-serif;
+    }
+
+    /* SOLO aplica a la tabla de Región Istmo */
+    .tabla-istmo {
+      width: 80%;
+      border-collapse: collapse;
+      margin: 30px auto;
+      color: #fff;
+    }
+
+    .tabla-istmo th,
+    .tabla-istmo td {
+      border: 1px solid #ccc;
+      padding: 10px;
+      text-align: left;
+    }
+
+    .tabla-istmo th {
+      background-color: #7ba144;
+      color: #fff;
+    }
+
+    .tabla-istmo .header {
+      background-color: #a2c183;
+      color: #000;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .tabla-istmo tr:nth-child(even):not(:first-child) {
+      background-color: #111;
+    }
+
+    .tabla-istmo tr:nth-child(odd):not(:first-child) {
+      background-color: #222;
+    }
+  </style>
+</head>
+<body>
+
+  <table class="tabla-istmo">
+    <tr>
+      <th colspan="3" class="header">Región Istmo</th>
+    </tr>
+    <tr>
+      <th>#</th>
+      <th>Número</th>
+      <th>Nombre</th>
+    </tr>
+    <tr><td>1</td><td>P 06</td><td>El Barrio</td></tr>
+    <tr><td>2</td><td>P 13</td><td>Astata</td></tr>
+    <tr><td>3</td><td>P 18</td><td>Tehuantepec</td></tr>
+    <tr><td>4</td><td>P 20</td><td>Asunción Ixtaltepec</td></tr>
+    <tr><td>5</td><td>P 22</td><td>Ixtepec</td></tr>
+    <tr><td>6</td><td>P 23</td><td>Juchitán</td></tr>
+    <tr><td>7</td><td>P 26</td><td>San Dionisio del Mar</td></tr>
+    <tr><td>8</td><td>P 34</td><td>Guevea de Humboldt</td></tr>
+    <tr><td>9</td><td>E 32</td><td>Santa María Ecatepec</td></tr>
+    <tr><td>10</td><td>E 40</td><td>Chivela</td></tr>
+    <tr><td>11</td><td>E 53</td><td>La Venta</td></tr>
+    <tr><td>12</td><td>E 67</td><td>Quiegolani</td></tr>
+  </table>
+<br>
+<br>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Galería Grande</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: Arial, sans-serif;
+    }
+
+    .galeria {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+      padding: 20px;
+    }
+
+    .galeria figure {
+      width: 300px;
+      margin: 0;
+      text-align: center;
+    }
+
+    .galeria img {
+      width: 300px;
+      height: 200px;
+      object-fit: cover;
+      border: 2px solid #7ba144;
+      border-radius: 10px;
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+
+    .galeria img:hover {
+      transform: scale(1.05);
+      box-shadow: 0 0 12px #7ba144;
+    }
+
+    .galeria figcaption {
+      margin-top: 8px;
+      font-size: 14px;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+
+  <h2 style="text-align: center;">Galería de la Muestra Cultural, Cívica y Deportiva 2025</h2>
+
+  <div class="galeria">
+    <figure>
+      <img src="6.jpg" alt="Descripción 1">
+      <figcaption>Plantel 18 Tehuantepec</figcaption>
+    </figure>
+    <figure>
+      <img src="7.jpg" alt="Descripción 2">
+      <figcaption>Emsad 67 Quiegolani</figcaption>
+    </figure>
+    <figure>
+      <img src="8.jpg" alt="Descripción 3">
+      <figcaption>Emsad 32 Ecatepec</figcaption>
+    </figure>
+    <figure>
+      <img src="9.jpg" alt="Descripción 4">
+      <figcaption>Plantel 34 Guevea de Humboldt</figcaption>
+    </figure>
+    <figure>
+      <img src="10.jpg" alt="Descripción 1">
+      <figcaption>Plantel 12 Ixtepec</figcaption>
+    </figure>
+    <figure>
+      <img src="11.jpg" alt="Descripción 2">
+      <figcaption>Plantel 06 El Barrio</figcaption>
+    </figure>
+    <figure>
+      <img src="12.jpg" alt="Descripción 3">
+      <figcaption>Plantel 26 San Dionisio del Mar</figcaption>
+    </figure>
+    <figure>
+      <img src="13.jpg" alt="Descripción 4">
+      <figcaption>Plantel 13 Astata</figcaption>
+    </figure>
+    <figure>
+      <img src="14.jpg" alt="Descripción 4">
+      <figcaption>Plantel 20 Asunción Ixtaltepec</figcaption>
+    </figure>
+    <figure>
+      <img src="15.jpg" alt="Descripción 1">
+      <figcaption>Plantel 23 Juchitan</figcaption>
+    </figure>
+    <figure>
+      <img src="16.jpg" alt="Descripción 2">
+      <figcaption>Emsad 40 Chivela</figcaption>
+    </figure>
+    <figure>
+      <img src="17.jpg" alt="Descripción 3">
+      <figcaption>Emsad 53 La Venta</figcaption>
+    </figure>
+        </div>
+
+</body>
+</html>
+<br>
+<hr> 
+CECyTE Emsad "67 Quiegolani" 
+<br>
+
+</center>
+</font>
+</body>
+</html>
+
